@@ -1,0 +1,43 @@
+.padding-1 {
+    padding: 1rem;
+}
+
+.interactable-text {
+    font-weight: bold;
+    color: var(--sk-primary-color);
+}
+
+.description-text {
+    color: var(--van-gray-6);
+    font-size: .8rem;
+}
+
+:root {
+    --el-header-height: 60px;
+    .el-header {
+        --el-header-bg: rgb(50, 64, 87);
+        background-color: var(--el-header-bg);
+    }
+    --el-aside-width: 300px;
+    [bold] {
+        font-weight: bold;
+    }
+    *[text-size=mini] {
+        font-size: .6rem;
+    }
+    *[text-size=small] {
+        font-size: .8rem;
+    }
+    *[text-size=normal] {
+        font-size: 1rem;
+    }
+    *[text-size=middle] {
+        font-size: 1.2rem;
+    }
+    *[text-size=large] {
+        font-size: 1.5rem;
+    }
+    button[block] {
+        width: 100%;
+    }
+}
