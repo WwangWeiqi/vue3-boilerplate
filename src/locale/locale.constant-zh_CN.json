@@ -1,0 +1,232 @@
+{
+    "public": {
+        "back": "后退",
+        "submit": "提交",
+        "redirect-comment": "5 秒钟之后重定向 ...",
+        "unsupported-chain": {
+            "a": "不支持的 ChainID: ",
+            "b": "请在您的加密钱包中切换到Polygon Mainnet。"
+        },
+        "loading": "加载中 ...",
+        "no-more-record": "- 没有更多记录 -"
+    },
+    "card": {
+        "number": "卡号",
+        "available-balance": "可用余额",
+        "recent-transaction": "最近充值记录",
+        "top-up": "充值",
+        "loading": "加载中 ...",
+        "finished-text": "- 显示最近的5次充值记录 -",
+        "cbc": "编号",
+        "order-code": "订单号",
+        "order-status": "订单状态",
+        "union-status": "银联状态",
+        "open-card": "开卡",
+        "card-info": "卡信息",
+        "name-on-card": "姓名",
+        "card-status": "卡片状态"
+    },
+    "home": {
+        "msg-kyc": "请完成身份验证以充分体验平台服务。",
+        "start-kyc": "开始身份验证(KYC)",
+        "home": "主页",
+        "user": "用户"
+    },
+    "kyc": {
+        "english-only-msg": "仅接受英文字母",
+        "last-name": "姓 (护照中的拼音字母)",
+        "last-name-ph": "姓",
+        "last-name-msg": "姓为必填项",
+        "first-name": "名 (护照中的拼音字母)",
+        "first-name-ph": "名",
+        "first-name-msg": "名为必填项",
+        "name": "姓名 (同护照一致)",
+        "name-ph": "姓名",
+        "name-msg": "姓名为必填项",
+        "gender": "性别",
+        "birthdate": "出生日期",
+        "birthdate-select": "点击选择",
+        "birthdate-select-title": "请选择日期",
+        "gender-male": "男",
+        "gender-female": "女",
+        "nationality": "国籍",
+        "nationality-select": "点击选择国家代码",
+        "nationality-msg": "请输入国籍",
+        "passport": "护照号码",
+        "passport-ph": "护照号码",
+        "passport-msg": "请输入护照号码",
+        "passport-image": "护照照片",
+        "passport-image-msg": "必须上传护照照片",
+        "headshot-image": "头像照片",
+        "headshot-image-msg": "必须上传头像照片",
+        "address": "家庭地址",
+        "address-ph": "详细地址",
+        "address-msg": "家庭地址为必填项",
+        "phone": "电话号码",
+        "email": "电子邮件地址"
+    },
+    "bind-card": {
+        "title": "绑定卡片",
+        "number": "卡号",
+        "number-ph": "9555500011113456",
+        "number-msg": "卡号格式错误",
+        "expiration": "有效期",
+        "expiration-ph": "月(MM)/年(YY) 如: 09/28",
+        "expiration-msg": "失效格式错误 格式: 月(MM)/年(YY)",
+        "cvv": "验证码(CVV)",
+        "cvv-ph": "123",
+        "cvv-msg": "验证码格式错误",
+        "pin": "ATM取款密码",
+        "pin-ph": "123456",
+        "pin-msg": "取款密码格式错误。应为6位数字",
+        "pin-confirm": "确认ATM取款密码",
+        "pin-match-msg": "两次输入ATM取款密码不同",
+        "processing": "处理卡片绑定请求中...",
+        "click-bind": "点击绑定银联卡",
+        "shipment": {
+            "status": "邮寄状态",
+            "express-company": "快递公司",
+            "tracking-number": "追踪号码",
+            "receiving-method": "接收方式"
+        }
+    },
+    "strategy": {
+        "sub-msg": "您提交的申请可能需要5分钟处理完成。",
+        "exchange": {
+            "success": {
+                "msg": "充值申请已提交。"
+            }
+        },
+        "opencard": {
+            "success": {
+                "msg": "开卡申请已提交。"
+            }
+        },
+        "bindcard": {
+            "success": {
+                "msg": "绑卡已成功。"
+            }
+        },
+        "forgot-password": {
+            "success": {
+                "msg": "密码恢复邮件已经发送。",
+                "sub-msg": "一封带有密码恢复链接的邮件已经发送给您。请根据指示重置您的密码。"
+            }
+        }
+    },
+    "login": {
+        "email-login": {
+            "title": "邮件登录",
+            "email": {
+                "label": "邮件地址",
+                "label-ph": "请输入邮件地址",
+                "label-msg": "邮件地址格式错误"
+            },
+            "password": {
+                "label": "密码",
+                "label-ph": "请输入密码"
+            },
+            "forgot": "忘记密码?",
+            "recover-password": {
+                "title": "需要帮助重置你的密码?",
+                "body": "请输入您在Smileshop-up中使用的登录邮件，我们会帮助您创建新的密码。"
+            }
+        },
+        "password": "密码",
+        "login-button": "登录",
+        "register": "注册账户"
+    },
+    "topup": {
+        "rule-1": {
+            "a": "",
+            "b": " 与 ",
+            "c": " 之间的兑换率是 ",
+            "d": "。"
+        },
+        "rule-2": {
+            "a": "平台将收取 ",
+            "b": "% 的兑换服务费."
+        },
+        "rule-3": {
+            "a": "平台目前仅支持Polygon网络上的Tether USD token即USDT。"
+        },
+        "rule-4": {
+            "a": "每日USDT兑换配额的限制为 ",
+            "b": "。"
+        },
+        "rule-5": {
+            "a": "充值后需要大约5分钟确认时间后USD会增加到您的账户余额。"
+        },
+        "usdt-daily-quota": "USDT当日可用配合",
+        "from": "发送",
+        "to": "应收到",
+        "top-up-button": "充值",
+        "confirm": {
+            "title": "确认充值",
+            "signature": "签名",
+            "confirm": "确认",
+            "wait": "等待您加密钱包(TP Wallet或METAMASK)中的确认,请不要退出页面 ..."
+        }
+    },
+    "user": {
+        "order": "订单历史",
+        "profile": "个人资料",
+        "security": "安全",
+        "support": "技术支持",
+        "contact-us": "联系我们",
+        "switch-account": "切换用户",
+        "orders_main": "订单历史",
+        "name": "姓名",
+        "status": "状态"
+    },
+    "order": {
+        "open-card-button": "开卡",
+        "topup-button": "充值",
+        "order-number": "订单号",
+        "tab-all": "全部",
+        "pay": "支付",
+        "topup-receive": "到账",
+        "order-history": "历史订单",
+        "opencard-orders": "开卡订单",
+        "topup-orders": "充值订单"
+    },
+    "security": {
+        "change-password": "修改密码",
+        "old-password": "老密码",
+        "old-password-msg": "请输入老密码",
+        "new-password": "新密码",
+        "new-password-ph": "请输入新密码",
+        "new-password-msg": "密码格式错误。必须由6到18位长的的字符组成。",
+        "confirm-password": "再次输入",
+        "confirm-password-ph": "请再次输入新密码",
+        "confirm-password-msg": "两次输入不一致"
+    },
+    "support": {
+        "opencard-group": "开卡相关问题",
+        "opencard-transaction": "支付成功但是未生成开卡订单",
+        "opencard-transaction-description": "我支付了USDT,交易hash在链上可查,但是系统没有为我创建开卡订单。",
+        "opencard-transaction-page": {
+            "title": "提供交易Hash证明,重发开卡请求",
+            "subtitle": "使用开卡时支付USDT产生的交易Hash,重新提交开卡请求.这个操作不会导致额外的USDT花费.请确保签名使用的钱包账号和开卡时一致",
+            "txhash-field-label": "交易Hash",
+            "txhash-field-placeholder": "请输入交易Hash"
+        },
+        "topup-group": "充值相关问题",
+        "topup-transaction": "支付成功但是未生成充值订单",
+        "topup-transaction-description": "我支付了USDT,交易hash在链上可查,但是系统没有为我创建充值订单。",
+        "topup-transaction-page": {
+            "title": "提供交易Hash证明,重发充值请求",
+            "subtitle": "使用充值时支付USDT产生的交易Hash,重新提交充值请求.这个操作不会导致额外的USDT花费.请确保签名使用的钱包账号和充值时一致",
+            "txhash-field-label": "交易Hash",
+            "txhash-field-placeholder": "请输入交易Hash",
+            "cardAccount-field-label": "卡号",
+            "cardAccount-field-placeholder": "请输入卡号"
+        }
+    },
+    "payment-status": {
+        "unconfirmed": "支付处理中",
+        "received": "支付到账",
+        "reverted": "支付失败",
+        "forked": "支付失败"
+    }
+}

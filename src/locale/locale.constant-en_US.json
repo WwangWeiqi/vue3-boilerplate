@@ -1,0 +1,233 @@
+{
+    "public": {
+        "back": "Back",
+        "submit": "Submit",
+        "redirect-comment": "Redirect in 5s ...",
+        "unsupported-chain": {
+            "a": "Unsupported Chain Network of ChainID: ",
+            "b": "Please switch to Polygon Mainnet from your crypo wallet."
+        },
+        "loading": "Loading ...",
+        "no-more-record": "- No More Record -"
+    },
+    "card": {
+        "number": "Card Number",
+        "available-balance": "Available Balance",
+        "recent-transaction": "Recent Transaction",
+        "top-up": "Top Up",
+        "loading": "Loading ...",
+        "finished-text": "- display 5 most recent transactions -",
+        "cbc": "Serial Number",
+        "order-code": "Order Code",
+        "order-status": "Order Status",
+        "union-status": "UnionPay Status",
+        "open-card": "Open Card",
+        "card-info": "Card Info",
+        "name-on-card": "Name",
+        "card-status": "Card Status"
+    },
+    "home": {
+        "msg-kyc": "Please complete the identity verification to fully experience the platform services.",
+        "start-kyc": "Start KYC",
+        "home": "Home",
+        "user": "User"
+    },
+    "kyc": {
+        "english-only-msg": "English Letters Only",
+        "last-name": "Last Name (English on Passport)",
+        "last-name-ph": "Last Name",
+        "last-name-msg": "Last Name is Required",
+        "first-name": "First Name (English on Passport)",
+        "first-name-ph": "First Name",
+        "first-name-msg": "First Name is Required",
+        "name": "Name (On Passport)",
+        "name-ph": "Name",
+        "name-msg": "Name is Required",
+        "gender": "Gender",
+        "birthdate": "Birthdate",
+        "birthdate-select": "Click to Select",
+        "birthdate-select-title": "Please Select Date",
+        "gender-male": "Male",
+        "gender-female": "Female",
+        "nationality": "Nationality",
+        "nationality-select": "Click to Select Country Code",
+        "nationality-msg": "Nationality is Required",
+        "passport": "Passport Number",
+        "passport-ph": "Passport Number",
+        "passport-msg": "Passport Number is Required",
+        "passport-image": "Passport Image",
+        "passport-image-msg": "Passport Image is Required",
+        "headshot-image": "Headshot Image",
+        "headshot-image-msg": "Headshot Image is Required",
+        "address": "Home Address",
+        "address-ph": "Street, District, Province, Country",
+        "address-msg": "Home Address is Required",
+        "phone": "Phone No.",
+        "email": "Email Address"
+    },
+    "bind-card": {
+        "title": "Bind Card",
+        "number": "Card Number",
+        "number-ph": "9555500011113456",
+        "number-msg": "Card Number Format Error",
+        "expiration": "Expiration",
+        "expiration-ph": "MONTH/YEAR.eg 09/28",
+        "expiration-msg": "Expiration Format Error Format: MM/YY",
+        "cvv": "CVV",
+        "cvv-ph": "123",
+        "cvv-msg": "CVV Format Error",
+        "pin": "ATM PIN",
+        "pin-ph": "123456",
+        "pin-msg": "ATM PIN Format Error. Should be 6 Digits",
+        "pin-confirm": "Confirm ATM PIN",
+        "pin-match-msg": "Two Inputs of ATM PIN not Match",
+        "processing": "Processing bind card request ...",
+        "click-bind": "Click to Bind UnionPay Card",
+        "shipment": {
+            "status": "Shipment Status",
+            "express-company": "Express Company",
+            "tracking-number": "Tracking Number",
+            "receiving-method": "Receiving Method"
+        }
+    },
+    "strategy": {
+        "sub-msg": "It may take 5 mins to process your request.",
+        "exchange": {
+            "success": {
+                "msg": "Topup request was submitted."
+            }
+        },
+        "opencard": {
+            "success": {
+                "msg": "Open card request was submitted."
+            }
+        },
+        "bindcard": {
+            "success": {
+                "msg": "Bind card was successful."
+            }
+        },
+        "forgot-password": {
+            "success": {
+                "msg": "Password recover email was sent.",
+                "sub-msg": "Email with password recovery link was sent to you. Please follow instruction to reset your password."
+            }
+        }
+    },
+    "login": {
+        "email-login": {
+            "title": "Email Login",
+            "email": {
+                "label": "Email Address",
+                "label-ph": "Please Input Email Address",
+                "label-msg": "Invalid Email Format"
+            },
+            "password": {
+                "label": "Password",
+                "label-ph": "Please Input Password"
+            },
+            "forgot": "Forgot Password?",
+            "recover-password": {
+                "title": "Need help with your password?",
+                "body": "Enter the email you use for Smileshop-up, and we will help you create a new password."
+            }
+        },
+        "password": "password",
+        "login-button": "Login",
+        "register": "Register Account"
+    },
+    "topup": {
+        "rule-1": {
+            "a": "Exchange ratio between ",
+            "b": " and ",
+            "c": " is ",
+            "d": "."
+        },
+        "rule-2": {
+            "a": "The platform will charge ",
+            "b": "% as service fee."
+        },
+        "rule-3": {
+            "a": "The platform supports only Tether USD token (USDT) on Polygon for now."
+        },
+        "rule-4": {
+            "a": "Daily quota of USDT exchange limit is ",
+            "b": "."
+        },
+        "rule-5": {
+            "a": "It may take 5 mins to reflect the balance of your account for confirmation."
+        },
+        "usdt-daily-quota": "USDT Quota Today",
+        "from": "Send",
+        "to": "Receivable",
+        "top-up-button": "Topup",
+        "confirm": {
+            "title": "Confirm Topop",
+            "signature": "Signature",
+            "confirm": "Confirm",
+            "wait": "Waiting for the confirmation from your crypto wallet (TP Wallet or METAMASK), please stay on this page ..."
+        }
+    },
+    "user": {
+        "order": "Order History",
+        "profile": "Profile",
+        "security": "Security",
+        "support": "Support",
+        "contact-us": "Contact Us",
+        "switch-account": "Switch Account",
+        "orders_main": "Order History",
+        "name": "Name",
+        "status": "Status"
+    },
+    "order": {
+        "open-card-button": "Open Card",
+        "topup-button": "Topup",
+        "order-number": "Order Number",
+        "tab-all": "All",
+        "pay": "Payment",
+        "topup-receive": "Received",
+        "order-history": "Orders History",
+        "opencard-orders": "Open Card Orders",
+        "topup-orders": "Topup Orders"
+    },
+    "security": {
+        "change-password": "Change Password",
+        "old-password": "Old Password",
+        "old-password-msg": "Please Input Old Password",
+        "new-password": "New Password",
+        "new-password-ph": "Please Input New Password",
+        "new-password-msg": "Password Format Error. Must be length of 6 to 18 characters.",
+        "confirm-password": "Input Again",
+        "confirm-password-ph": "Please Input New Password Again",
+        "confirm-password-msg": "Two Inputs Not Match"
+    },
+    "support": {
+        "opencard-group": "About OpenCard",
+        "opencard-transaction": "Open card order not placed while I'm succuessfully paid USDT",
+        "opencard-transaction-description": "I placed open card order with USDT, and transaction hash can be seen on ploygon explorer.",
+        "opencard-transaction-page": {
+            "title": "Place order with transaction hash proof",
+            "subtitle": "Re-submit open card request with transaction hash generated by previous order, this action won't cause extra USDT cost.Please use same wallet address that place previous order to sign message",
+            "txhash-field-label": "Transaction Hash",
+            "txhash-field-placeholder": " please input transaction hash"
+        },
+        "topup-group": "About Toupup",
+        "topup-transaction": "Topup order not placed while I'm succuessfully paid USDT",
+        "topup-transaction-description": "I placed topup order with USDT, and transaction hash can be seen on ploygon explorer.",
+        "topup-transaction-page": {
+            "title": "Place order with transaction hash proof",
+            "subtitle": "Re-submit topup request with transaction hash generated by previous order, this action won't cause extra USDT cost.Please use same wallet address that place previous order to sign message",
+            "txhash-field-label": "Transaction Hash",
+            "txhash-field-placeholder": " please input transaction hash",
+            "cardAccount-field-label": "Card Account",
+            "cardAccount-field-placeholder": " please input card account"
+        }
+
+    },
+    "payment-status": {
+        "unconfirmed": "Payment Processing",
+        "received": "Payment Received",
+        "reverted": "Payment Failed",
+        "forked": "Payment Failed"
+    }
+}

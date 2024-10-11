@@ -1,0 +1,11 @@
+
+Design/*.pdf
+**/node_modules
+**/build
+**/Logs/*
+!**READE.md
+!backend/Logs/README.md
+
+
+**/secrets
+.czrc
